@@ -5,7 +5,7 @@
   
 ### Инструкция по установке:
 1. Создайте резервную копию вашего магазина и базы данных
-2. Загрузите архив с модулем [drupal8_commerce_hutkigrosh.zip](https://github.com/esasby/hgrosh/blob/master/CMS/Plugins/Drupal/8.x/drupal8_commerce_hutkigrosh.zip) и распакуйте его
+2. Загрузите архив с модулем [drupal8_commerce_hutkigrosh.zip](https://github.com/esasby/hutkigrosh-drupal8-commerce2-module/blob/master/drupal8_commerce_hutkigrosh.zip) и распакуйте его
 3. Скопируйте получившуюся папку _commerce_hutkigrosh_ на сервер в каталог 
 ```<DRUPAL_HOME>/modules```
 4. Включите модуль _Hutkigrosh payment_ через меню управления модулями 
